@@ -1,0 +1,71 @@
+{
+  "included": 4540,
+  "excluded": 544,
+  "unavailable": 8322,
+  "classes": [
+    {
+      "class_id": 0,
+      "name": "side plank",
+      "directory": "side_plank",
+      "included": 1521,
+      "excluded": 19,
+      "unavailable_official_train": 1316,
+      "unavailable_official_test": 222,
+      "blocked_attributes": [
+        "getting into position",
+        "not visible",
+        "starting late"
+      ]
+    },
+    {
+      "class_id": 1,
+      "name": "squats",
+      "directory": "squats",
+      "included": 547,
+      "excluded": 74,
+      "unavailable_official_train": 3472,
+      "unavailable_official_test": 215,
+      "blocked_attributes": [
+        "getting into position",
+        "hold",
+        "not moving",
+        "not visible",
+        "starting late"
+      ]
+    },
+    {
+      "class_id": 2,
+      "name": "reverse crunches",
+      "directory": "reverse_crunches",
+      "included": 1635,
+      "excluded": 257,
+      "unavailable_official_train": 1304,
+      "unavailable_official_test": 199,
+      "blocked_attributes": [
+        "getting into position",
+        "not moving",
+        "not visible",
+        "starting late"
+      ]
+    },
+    {
+      "class_id": 3,
+      "name": "air jump rope",
+      "directory": "air_jump_rope",
+      "included": 837,
+      "excluded": 194,
+      "unavailable_official_train": 1526,
+      "unavailable_official_test": 68,
+      "blocked_attributes": [
+        "getting into position",
+        "no jump",
+        "not moving",
+        "not visible",
+        "starting late"
+      ]
+    }
+  ],
+  "included_official_splits": {
+    "train": 4540
+  }
+}

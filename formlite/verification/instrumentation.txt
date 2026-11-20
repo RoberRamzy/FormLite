@@ -1,0 +1,6 @@
+
+com.formlite.AcceptanceTest:..
+
+Time: 30.456
+
+OK (2 tests)

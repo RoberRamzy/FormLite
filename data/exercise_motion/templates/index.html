@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Exercise recognition</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="{{ url_for('static', filename='upload.js') }}" defer></script>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Exercise recognition</h1>
+    <p>Upload a short video of one person performing one of these exercises.</p>
+    <ul class="classes" aria-label="Supported exercises">
+      {% for exercise in classes %}<li>{{ exercise }}</li>{% endfor %}
+    </ul>
+  </header>
+  <div class="work-area">
+    <section aria-labelledby="upload-title">
+      <h2 id="upload-title">Choose a video</h2>
+      <form id="video-form" action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data"
+            data-max-bytes="{{ max_bytes }}">
+        <label for="video">Exercise video</label>
+        <input type="file" id="video" name="video" accept=".mp4,video/mp4" required aria-describedby="guidance">
+        <p id="guidance">MP4, up to 100 MB and {{ max_duration }} seconds. Keep the person’s body in frame.</p>
+        <video id="preview" controls muted playsinline hidden aria-label="Selected video preview"></video>
+        <button type="submit" id="analyze">Analyze video</button>
+      </form>
+    </section>
+    <section aria-labelledby="result-title">
+      <h2 id="result-title">Prediction</h2>
+      <p id="status" role="status" aria-live="polite">Choose a video to see the result.</p>
+      <div id="result" hidden>
+        <p id="exercise" class="exercise"></p>
+        <p id="details"></p>
+        <ul id="scores" class="scores" aria-label="Model scores"></ul>
+      </div>
+    </section>
+  </div>
+</main>
+</body>
+</html>

@@ -1,0 +1,291 @@
+{
+  "evaluation": "Local held-out clip evaluation. Participant overlap is possible.",
+  "device": "cuda:0",
+  "gpu": "NVIDIA GeForce RTX 4070 Laptop GPU",
+  "torch": "2.6.0+cu124",
+  "python": "3.11.18",
+  "training_epochs": 22,
+  "best_epoch": 14,
+  "validation_macro_f1": 0.9836762945055646,
+  "test_clips": 464,
+  "test_accuracy": 0.9806034482758621,
+  "test_macro_f1": 0.9733994105742979,
+  "test_per_class": {
+    "side plank": {
+      "precision": 1.0,
+      "recall": 0.9941176470588236,
+      "f1-score": 0.9970501474926253,
+      "support": 170
+    },
+    "squats": {
+      "precision": 0.9565217391304348,
+      "recall": 0.9777777777777777,
+      "f1-score": 0.967032967032967,
+      "support": 45
+    },
+    "reverse crunches": {
+      "precision": 0.9779005524861878,
+      "recall": 0.9833333333333333,
+      "f1-score": 0.9806094182825484,
+      "support": 180
+    },
+    "air jump rope": {
+      "precision": 0.9558823529411765,
+      "recall": 0.9420289855072463,
+      "f1-score": 0.948905109489051,
+      "support": 69
+    }
+  },
+  "class_order": [
+    "side plank",
+    "squats",
+    "reverse crunches",
+    "air jump rope"
+  ],
+  "test_confusion_matrix": [
+    [
+      169,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      44,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      177,
+      2
+    ],
+    [
+      0,
+      1,
+      3,
+      65
+    ]
+  ],
+  "upload_score_threshold": 0.6,
+  "test_coverage_at_upload_threshold": 0.9892241379310345,
+  "test_accuracy_at_upload_threshold": 0.9869281045751634,
+  "majority_baseline": {
+    "class": "side plank",
+    "accuracy": 0.36637931034482757,
+    "macro_f1": 0.13406940063091483
+  },
+  "dataset": {
+    "input_clips": 4540,
+    "video_eligible": 3503,
+    "split_strategy": "purged_filename_blocks",
+    "usable_clips": 3263,
+    "windows": 9444,
+    "exclusions": {
+      "redundant_video": 799,
+      "conflicting_duplicate_group": 47,
+      "cross_split_duplicate_family": 191,
+      "low_pose_coverage": 240
+    },
+    "clips_per_split": {
+      "train": {
+        "side plank": 838,
+        "squats": 268,
+        "reverse crunches": 836,
+        "air jump rope": 381
+      },
+      "validation": {
+        "side plank": 170,
+        "squats": 56,
+        "reverse crunches": 181,
+        "air jump rope": 69
+      },
+      "test": {
+        "side plank": 170,
+        "squats": 45,
+        "reverse crunches": 180,
+        "air jump rope": 69
+      }
+    },
+    "pose_model_sha256": "59929e1d1ee95287735ddd833b19cf4ac46d29bc7afddbbf6753c459690d574a",
+    "schema": {
+      "version": 1,
+      "body_ids": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "fps": 10,
+      "window": 32,
+      "stride": 16,
+      "min_usable_frames": 20,
+      "visibility": 0.5,
+      "min_visible_landmarks": 12,
+      "feature_count": 182,
+      "landmark_channels": [
+        "x",
+        "y",
+        "z",
+        "dx",
+        "dy",
+        "dz",
+        "valid",
+        "delta_valid"
+      ],
+      "hip_channels": [
+        "x",
+        "y",
+        "dx",
+        "dy",
+        "valid",
+        "delta_valid"
+      ]
+    }
+  },
+  "pose_coverage": {
+    "train": {
+      "mean_usable_frame_fraction": 0.9725345243678978,
+      "excluded_clips": 183
+    },
+    "validation": {
+      "mean_usable_frame_fraction": 0.9708947227403985,
+      "excluded_clips": 25
+    },
+    "test": {
+      "mean_usable_frame_fraction": 0.9680393828498428,
+      "excluded_clips": 32
+    }
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 0.3301906883716583,
+      "validation_macro_f1": 0.9690444427645023
+    },
+    {
+      "epoch": 2,
+      "training_loss": 0.06808478385210037,
+      "validation_macro_f1": 0.9805836016144793
+    },
+    {
+      "epoch": 3,
+      "training_loss": 0.04376595839858055,
+      "validation_macro_f1": 0.976958525428703
+    },
+    {
+      "epoch": 4,
+      "training_loss": 0.032670460641384125,
+      "validation_macro_f1": 0.9732270044770045
+    },
+    {
+      "epoch": 5,
+      "training_loss": 0.03487969934940338,
+      "validation_macro_f1": 0.9810578145774087
+    },
+    {
+      "epoch": 6,
+      "training_loss": 0.016645018011331558,
+      "validation_macro_f1": 0.9820916862055267
+    },
+    {
+      "epoch": 7,
+      "training_loss": 0.011135105043649673,
+      "validation_macro_f1": 0.9681827052728693
+    },
+    {
+      "epoch": 8,
+      "training_loss": 0.008225257508456707,
+      "validation_macro_f1": 0.9758660987233694
+    },
+    {
+      "epoch": 9,
+      "training_loss": 0.005649058148264885,
+      "validation_macro_f1": 0.9786035955559367
+    },
+    {
+      "epoch": 10,
+      "training_loss": 0.007708830293267965,
+      "validation_macro_f1": 0.9684633577777828
+    },
+    {
+      "epoch": 11,
+      "training_loss": 0.008739658631384373,
+      "validation_macro_f1": 0.9826986128174924
+    },
+    {
+      "epoch": 12,
+      "training_loss": 0.003995807841420174,
+      "validation_macro_f1": 0.9781748749377539
+    },
+    {
+      "epoch": 13,
+      "training_loss": 0.0019000689499080181,
+      "validation_macro_f1": 0.9771641931352381
+    },
+    {
+      "epoch": 14,
+      "training_loss": 0.00236518494784832,
+      "validation_macro_f1": 0.9836762945055646
+    },
+    {
+      "epoch": 15,
+      "training_loss": 0.002956640673801303,
+      "validation_macro_f1": 0.9732486410303312
+    },
+    {
+      "epoch": 16,
+      "training_loss": 0.0017549304757267237,
+      "validation_macro_f1": 0.9772809254192233
+    },
+    {
+      "epoch": 17,
+      "training_loss": 0.0010100477375090122,
+      "validation_macro_f1": 0.9732486410303312
+    },
+    {
+      "epoch": 18,
+      "training_loss": 0.0005662850453518331,
+      "validation_macro_f1": 0.9766239360876858
+    },
+    {
+      "epoch": 19,
+      "training_loss": 0.0004233884683344513,
+      "validation_macro_f1": 0.9732486410303312
+    },
+    {
+      "epoch": 20,
+      "training_loss": 0.00031246559228748083,
+      "validation_macro_f1": 0.9756777748055958
+    },
+    {
+      "epoch": 21,
+      "training_loss": 0.0005621777381747961,
+      "validation_macro_f1": 0.9718546016863858
+    },
+    {
+      "epoch": 22,
+      "training_loss": 0.005631541833281517,
+      "validation_macro_f1": 0.9742485448820974
+    }
+  ]
+}

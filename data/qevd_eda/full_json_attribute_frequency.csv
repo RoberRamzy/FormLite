@@ -1,0 +1,662 @@
+attribute,clip_count,percent_of_scope
+average,23588,7.913073
+no obvious issue,14653,4.915646
+as fast as possible,9123,3.060495
+stopping early,5797,1.944721
+rom=2,5795,1.944050
+rom=3,5737,1.924593
+rom=1,5691,1.909161
+slow,5567,1.867563
+head straight,5525,1.853473
+rom=4,5507,1.847435
+starting late,5422,1.818920
+shoulder-width,5233,1.755516
+low range of motion,5226,1.753168
+rom=5,5177,1.736730
+getting into position,5056,1.696138
+lazy,4360,1.462650
+90 degrees,4262,1.429774
+too fast,4226,1.417697
+speed=1.00 rps,3915,1.313366
+wide,3737,1.253652
+head up,3538,1.186894
+leaning forward,3490,1.170791
+knee on ground,3343,1.121477
+rounded back,3195,1.071828
+speed=0.75 rps,3168,1.062770
+speed=0.60 rps,3152,1.057402
+arms shoulder width,3043,1.020836
+speed=0.40 rps,2885,0.967832
+looking down,2878,0.965483
+speed=0.80 rps,2777,0.931601
+too slow,2738,0.918518
+high hips,2722,0.913150
+elbow below shoulder,2639,0.885306
+head down,2511,0.842366
+shallow,2481,0.832302
+heels off the floor,2348,0.787684
+normal width,2300,0.771582
+speed=0.50 rps,2146,0.719919
+narrow,2074,0.695765
+clockwise,2006,0.672953
+legs apart,1953,0.655173
+early stopping,1934,0.648800
+arms too wide,1911,0.641084
+squat_depth=1,1813,0.608208
+squat_depth=3,1792,0.601163
+legs straight,1790,0.600492
+not moving,1780,0.597137
+not alternating,1777,0.596131
+insufficient,1762,0.591099
+70 degres,1720,0.577009
+losing balance,1709,0.573319
+not visible,1690,0.566945
+squat_depth=4,1681,0.563926
+both knees on floor,1643,0.551178
+squat_depth=2,1631,0.547152
+squat_depth=5,1599,0.536417
+hold,1577,0.529037
+over 90 degrees,1563,0.524340
+shin not parallel,1539,0.516289
+speed=2.00 rps,1539,0.516289
+deep,1522,0.510586
+bent legs,1503,0.504212
+no jump,1481,0.496831
+static legs,1469,0.492806
+stopping after first rep,1444,0.484419
+punching down,1407,0.472007
+legs together,1363,0.457246
+stepping,1343,0.450537
+torso too high,1339,0.449195
+arms too narrow,1315,0.441143
+wrong order,1292,0.433428
+single repetition,1287,0.431750
+speed=2.50 rps,1287,0.431750
+knees over toes,1278,0.428731
+hips too low,1245,0.417660
+height=3,1237,0.414977
+punching up,1236,0.414641
+side to side,1228,0.411958
+elevated hips,1210,0.405919
+normal speed,1207,0.404913
+not lifting knees,1166,0.391158
+speed=1.20 rps,1166,0.391158
+speed=1.50 rps,1160,0.389146
+no wrist circles,1142,0.383107
+torso 90 degrees,1141,0.382772
+arms extended,1124,0.377069
+back not straight,1123,0.376733
+height=2,1104,0.370359
+stepping feet back,1096,0.367675
+height=5,1090,0.365663
+height=4,1058,0.354928
+height=1,1045,0.350566
+not bending front leg,1043,0.349896
+medium steps,1027,0.344528
+very wide,1026,0.344193
+elbows not touching,1022,0.342851
+bent back knee,985,0.330438
+fast but low range of motion,967,0.324400
+bringing knees forward,955,0.320374
+no arms,952,0.319368
+speed=1.25 rps,935,0.313665
+bent knees,927,0.310981
+looking up,925,0.310310
+not twisting body,914,0.306620
+low hips,910,0.305278
+only legs,894,0.299910
+straight leg,888,0.297898
+fast,873,0.292866
+speed=3.00 rps,873,0.292866
+no issues,857,0.287498
+arms only,856,0.287163
+on knees,844,0.283137
+low turnover,810,0.271731
+narrow space between legs,796,0.267034
+stepping feet forward,780,0.261667
+not jumping,778,0.260996
+"hips not rotating, hips not facing camera",776,0.260325
+"hips not rotating, hips facing camera",763,0.255964
+butt sinking,753,0.252609
+feet too narrow,752,0.252274
+hands on hips,749,0.251267
+feet too wide,742,0.248919
+arms_rom=4.0,731,0.245229
+left leg back,727,0.243887
+front leg straight,725,0.243216
+front arm low,723,0.242545
+butt below knees,715,0.239861
+no pushup,712,0.238855
+knees in,710,0.238184
+knees out,708,0.237513
+shoulders off the ground,694,0.232816
+legs_rom=3.0,689,0.231139
+depth=2,685,0.229797
+hands behind head,684,0.229462
+rear arm low,676,0.226778
+legs 90 degrees,665,0.223088
+only arms,660,0.221410
+wide space between arms,655,0.219733
+looking at the camera,647,0.217049
+not moving arms,640,0.214701
+shallow pushup,636,0.213359
+narrow space between arms,630,0.211346
+sloppy arms,628,0.210675
+not in place,626,0.210004
+opposite knee too straight,623,0.208998
+as high as possible,620,0.207992
+foot touching the floor,612,0.205308
+wrists up but not moving,611,0.204972
+faster,609,0.204301
+not moving hands,609,0.204301
+barely moving hands,607,0.203630
+start moving opposite leg too early,607,0.203630
+hips too high,606,0.203295
+opposite knee close to chest,606,0.203295
+below 90 degrees,604,0.202624
+low back off the floor,604,0.202624
+depth=4,603,0.202289
+hands too far forward,598,0.200611
+width=3,598,0.200611
+running as fast as possible,596,0.199940
+depth=1,595,0.199605
+head on floor,595,0.199605
+counterclockwise,592,0.198598
+moving opposite leg,591,0.198263
+not fully extending legs,590,0.197927
+opposite knee too bent,590,0.197927
+feet on the floor,584,0.195915
+depth=3,582,0.195244
+jump_height=1,582,0.195244
+starting,573,0.192224
+medium circles,569,0.190883
+walking,567,0.190212
+waiting position,564,0.189205
+no elbows down,562,0.188534
+feet not under knees,558,0.187192
+hands at feet,549,0.184173
+not moving feet back,547,0.183502
+feet disappear behind knees,539,0.180818
+jump_height=3,538,0.180483
+width=1,533,0.178806
+no squat,532,0.178470
+width=5,531,0.178135
+depth=5,528,0.177128
+arms still,524,0.175786
+not bringing feet forward,524,0.175786
+arms up in the air,521,0.174780
+hands down,520,0.174445
+shoulders shrugged up toward the ears,520,0.174445
+45 degres,518,0.173774
+arms crossed,518,0.173774
+kicking high,518,0.173774
+not lifting feet,517,0.173438
+moving arms,515,0.172767
+very low range of motion,514,0.172432
+hunched back,513,0.172096
+hips very low,510,0.171090
+arms on the ground,508,0.170419
+torso_rotation=2,507,0.170083
+not bending back leg,506,0.169748
+plie,504,0.169077
+torso_rotation=1,498,0.167064
+no upright position,491,0.164716
+jump_height=5,490,0.164380
+kick_height=2,490,0.164380
+thumbs pointed sideway,490,0.164380
+torso_rotation=4,490,0.164380
+hips slightly too low,488,0.163709
+thumbs pointed down,488,0.163709
+width=4,486,0.163039
+looking up and down (moving head),484,0.162368
+knee over toes,480,0.161026
+heels off the ground,479,0.160690
+arms facing inward,472,0.158342
+elbows bent,472,0.158342
+width=2,472,0.158342
+"torso parallel to the ground, thumbs pointed up",470,0.157671
+stepping too big,464,0.155658
+leaning too far forward,463,0.155323
+legs and hips on the floor,463,0.155323
+not leaning forward,456,0.152974
+insufficient - high,455,0.152639
+not fully extending arm,453,0.151968
+torso_rotation=5,451,0.151297
+jump_height=4,448,0.150291
+no stepping,447,0.149955
+rotation_angle=3,447,0.149955
+high butt,444,0.148949
+small steps,441,0.147942
+arms too low,437,0.146601
+kick_height=5,437,0.146601
+kick_height=1,436,0.146265
+kick_height=4,435,0.145930
+upper body leaning forward,435,0.145930
+torso_rotation=3,431,0.144588
+speed=0.95 rps,423,0.141904
+kneeing,422,0.141568
+drooping head,421,0.141233
+switching to the other leg,420,0.140898
+elbow below head,418,0.140227
+no rotation,414,0.138885
+arm in air,413,0.138549
+speed=0.85 rps,412,0.138214
+speed=0.20 rps,411,0.137878
+kick_height=3,410,0.137543
+legs_rom=2.0,409,0.137207
+insufficient reach,408,0.136872
+moving spine,407,0.136536
+hands on floor,404,0.135530
+head off the floor,399,0.133853
+running feet,399,0.133853
+opposite,395,0.132511
+rotation_angle=1,395,0.132511
+knee facing forward,393,0.131840
+shins not parallel,393,0.131840
+rotation_angle=4,390,0.130833
+feet together,388,0.130162
+"no circle, left-right movement only",388,0.130162
+jump_height=2,385,0.129156
+legs not straight,385,0.129156
+large circles,383,0.128485
+speed=0.30 rps,380,0.127479
+small circles,379,0.127143
+"no circle, forward-backward movement only",378,0.126808
+knees twisting inwards,374,0.125466
+no arm,373,0.125130
+no grab,373,0.125130
+wide space between legs,364,0.122111
+angle=30.0 degrees,363,0.121776
+arms facing inward and legs and hips on the floor,361,0.121105
+arms facing inward and on knees,359,0.120434
+range_of_motion=1,358,0.120098
+legs on the floor,354,0.118756
+head up - hunched,346,0.116073
+speed=1.60 rps,343,0.115066
+"not synchronized (down, up, leg)",340,0.114060
+child pose cheat,338,0.113389
+heels on the floor,338,0.113389
+random,338,0.113389
+arms_rom=3.0,336,0.112718
+"not synchronized (down, leg in, up, leg out)",336,0.112718
+not raising hips,335,0.112383
+not facing the webcam,334,0.112047
+one leg,334,0.112047
+not bringing leg far enough,331,0.111041
+angle=90.0 degrees,330,0.110705
+bent arms,330,0.110705
+dragging foot,329,0.110370
+high turnover,328,0.110034
+shaking,328,0.110034
+speed=1.10 rps,328,0.110034
+not straight,326,0.109363
+kicking sideways,322,0.108021
+not touching shoulders,321,0.107686
+wrap,321,0.107686
+head moving in an out of frame,320,0.107350
+range_of_motion=2,320,0.107350
+range_of_motion=4,320,0.107350
+not moving legs,318,0.106680
+arms_rom=2.0,317,0.106344
+moving same side,316,0.106009
+too shallow downward dog,316,0.106009
+back feet touching floor,315,0.105673
+moving arms as fast as possible,315,0.105673
+walk out,314,0.105338
+hips too high during pushup phase,312,0.104667
+"not synchronized (down, leg, up)",311,0.104331
+angle=60.0 degrees,309,0.103660
+rotation_angle=5,308,0.103325
+low arm,306,0.102654
+"not finishing the pushup, going straight to downward dog",306,0.102654
+walking hands back,305,0.102318
+head out,302,0.101312
+no reach,300,0.100641
+butt off the ground (extreme),297,0.099635
+inhale,297,0.099635
+shoulders on the ground,296,0.099299
+"other arm not above head, pushing elbow back",294,0.098628
+range_of_motion=3,294,0.098628
+touching wrong foot,294,0.098628
+fold,293,0.098293
+inhale and lengthen,293,0.098293
+right leg,293,0.098293
+stance,293,0.098293
+only left leg,292,0.097957
+high knees,290,0.097286
+"left leg, hold",290,0.097286
+roll up,290,0.097286
+butt off the ground,289,0.096951
+"fake stretch, other arm in position but not stretching",288,0.096615
+legs too low,288,0.096615
+"not moving, leg up",288,0.096615
+not using other arm,288,0.096615
+pulling hand instead of elbow,288,0.096615
+up,287,0.096280
+"back not straight, arching up",286,0.095944
+large steps,286,0.095944
+knees outward,285,0.095609
+touching knee and knee bent at 90 degrees,285,0.095609
+not moving forward,284,0.095274
+knee off ground,282,0.094603
+pulling elbow back as far as possible,282,0.094603
+touching shin,281,0.094267
+feet out 45 degrees,280,0.093932
+touching knee,280,0.093932
+head on the floor,279,0.093596
+hold right,279,0.093596
+one arm,278,0.093261
+jumping,275,0.092254
+"not moving, leg down",275,0.092254
+exhale and fold,274,0.091919
+feet stay below knees,274,0.091919
+inhale up,274,0.091919
+touching foot,274,0.091919
+left leg,273,0.091583
+shaking knees,271,0.090912
+"hands too far forward, not under shoulders",270,0.090577
+knees not under hips,270,0.090577
+back from right lean,268,0.089906
+butt moving side-to-side,268,0.089906
+speed=0.25 rps,268,0.089906
+torso bent sideways,267,0.089571
+"left leg front, fold up",265,0.088900
+left leg front,264,0.088564
+low arm and leg,264,0.088564
+sitting down,261,0.087558
+too shallow,261,0.087558
+wrap left around right,261,0.087558
+arm and leg as high as possible,260,0.087222
+excessively short,260,0.087222
+"left leg front, fold down",260,0.087222
+wrong knee bent,260,0.087222
+snappy,258,0.086551
+speed=0.35 rps,258,0.086551
+not going far enough out,257,0.086216
+toes facing down,256,0.085880
+upper body not straight,256,0.085880
+back up,255,0.085545
+lean right,255,0.085545
+insufficient rotation,254,0.085209
+speed=1.05 rps,254,0.085209
+angle=45.0 degrees,253,0.084874
+"cat posture, hands too far foward",253,0.084874
+feet behind,253,0.084874
+hands as far as possible,253,0.084874
+torso bent forward,253,0.084874
+hands flat,251,0.084203
+heel off the floor,251,0.084203
+sloppy,251,0.084203
+"""one arm at a time"" cheat",250,0.083868
+stepping foot pointing away,250,0.083868
+too narrow,250,0.083868
+knee above ankle,249,0.083532
+"back not straight, dropping down",248,0.083197
+bending knees too much,248,0.083197
+"cat posture, back as high as possible",248,0.083197
+hand to knee,247,0.082861
+hands too far from feet,247,0.082861
+speed=1.75 rps,247,0.082861
+"knee above ankle, butt as low as possible",246,0.082526
+knees as wide apart as possible,246,0.082526
+knees together,246,0.082526
+not going far enough in,246,0.082526
+arms too close,245,0.082190
+cat posture,245,0.082190
+head up - too far back,244,0.081855
+"knee straight, toes out",243,0.081519
+knees too close,242,0.081184
+knee over toe,241,0.080848
+"knee in line with toe, stepping foot pointing towards the camera",240,0.080513
+"knee out, toes straight",240,0.080513
+"arms and head leaning back, chest popping out",239,0.080177
+bent elbow,239,0.080177
+moving feet,239,0.080177
+rounded shoulders,239,0.080177
+legs_rom=1.0,238,0.079842
+not moving - down,238,0.079842
+moving wrong arm,237,0.079506
+upper body moving,236,0.079171
+bending knee too far forward,235,0.078836
+extending legs,234,0.078500
+not holding position,234,0.078500
+not leaning forward enough,234,0.078500
+dropping hips too low,232,0.077829
+"getting into position, hands too far from feet",232,0.077829
+good form,232,0.077829
+knees bent,232,0.077829
+low knees,232,0.077829
+stepping in-place,232,0.077829
+toes facing up,232,0.077829
+arms hanging down,230,0.077158
+frontal,229,0.076823
+get into position from the ground,229,0.076823
+"knee above ankle, arms down",229,0.076823
+not moving - up,229,0.076823
+range_of_motion=5,229,0.076823
+"very wide space between legs, front leg not vertical",229,0.076823
+"getting into position, dropping too heavy",228,0.076487
+"lower range of motion, arms too low",228,0.076487
+non-working leg bent,228,0.076487
+"head down, back not straight",225,0.075481
+heels only,225,0.075481
+keeping the hips up,225,0.075481
+rotation_angle=2,224,0.075145
+"shoulders away from the ears, hands facing each other",224,0.075145
+foot flat on the ground,223,0.074810
+on your toes,223,0.074810
+"shoulders away from the ears, hands facing forward",223,0.074810
+front knee going forward over toes,222,0.074474
+hands on shins,222,0.074474
+torso not low enough,222,0.074474
+butt on the ground,220,0.073803
+hands too far foward,220,0.073803
+shoulders close to ears,220,0.073803
+"arms leaning back, chest popping out",218,0.073133
+elbow not moving,218,0.073133
+punching arm going too low,218,0.073133
+"thumbs not pointing at all, hands flat",218,0.073133
+hand on knees,216,0.072462
+"hands on shins, bent knees",214,0.071791
+"hands on shins, feet wide apart",214,0.071791
+moving hips,214,0.071791
+not bending torso at all,214,0.071791
+not moving back,213,0.071455
+"chin not tucked, looking at the screen",211,0.070784
+hands on knees,210,0.070449
+hands under shoulders,210,0.070449
+arms too overhead,209,0.070113
+hands at ankles,209,0.070113
+wide feet,209,0.070113
+hands at knees,207,0.069442
+kicking low,207,0.069442
+moving head,207,0.069442
+not low enough,207,0.069442
+feet down,206,0.069107
+knees to chest,206,0.069107
+puppet dance,206,0.069107
+tabletop to cat posture,206,0.069107
+not bringing feet together,204,0.068436
+cow posture to cat posture,203,0.068100
+narrow jumps,202,0.067765
+"cow posture, belly as low as possible",201,0.067430
+get into position from above,201,0.067430
+"left leg bent, toes facing up",201,0.067430
+head off ground,200,0.067094
+one leg down,200,0.067094
+rotating away from your front leg,200,0.067094
+lifting feet too high,199,0.066759
+"arms too wide, still stepping out",198,0.066423
+"cow posture, hands too far foward",198,0.066423
+"no circles, arms moving up and down",198,0.066423
+not extending leg,198,0.066423
+wide space legs,198,0.066423
+cat posture to cow posture,197,0.066088
+"left leg bent, toes facing down",197,0.066088
+moving upper-body,197,0.066088
+speed=0.70 rps,197,0.066088
+kick as high as possible,196,0.065752
+arm lower than shoulder,195,0.065417
+feet wide apart,195,0.065417
+in-place jump,195,0.065417
+arms not between thighs,194,0.065081
+cow posture,194,0.065081
+hands on thighs,194,0.065081
+sliding feet back,194,0.065081
+arms together,193,0.064746
+bent knee,193,0.064746
+feet facing sideways,193,0.064746
+hands on head,193,0.064746
+arms down,192,0.064410
+"feet below hips, butt as low as possible",192,0.064410
+leg not straight,192,0.064410
+wide jumps,192,0.064410
+feet facing forward,191,0.064075
+without hands,191,0.064075
+arm not straight,190,0.063739
+"feet as wide apart as possible, horizontal arms",190,0.063739
+big circles,189,0.063404
+looking at feet,187,0.062733
+only one side,187,0.062733
+"back knee too high, hips too high",186,0.062397
+elbow plank,186,0.062397
+"feet below hips, horizontal arms",186,0.062397
+knees on floor,186,0.062397
+head  up,185,0.062062
+lower kicks,185,0.062062
+"feet together, horizontal arms",184,0.061727
+large space between legs,184,0.061727
+no obvious mistake,184,0.061727
+pull elbow,184,0.061727
+shallow squat no jump,184,0.061727
+tabletop to cow posture,184,0.061727
+insufficient kicks,183,0.061391
+shallow squat,183,0.061391
+"hands on hips, feet shoulder-width apart",182,0.061056
+not alternating legs,182,0.061056
+"arms too wide, stepping too narrow",181,0.060720
+balance on leg,180,0.060385
+stepping too short,180,0.060385
+arm not extended,179,0.060049
+back knee on the ground,177,0.059378
+not fully extending arms,177,0.059378
+small rotation,177,0.059378
+looking far up,176,0.059043
+no moving,176,0.059043
+legs up not moving,174,0.058372
+hold onto something,173,0.058036
+too low,173,0.058036
+elbows forward,170,0.057030
+tilting head left and right,169,0.056694
+back foot too close,168,0.056359
+"back leg extended, back knee just off the ground",168,0.056359
+knee forward,168,0.056359
+knees close to chest,167,0.056024
+rolling hands,167,0.056024
+speed=1.30 rps,167,0.056024
+uppercut,167,0.056024
+as low as possible,165,0.055353
+"high, keeping shoulders away from the ears, arms wide apart",165,0.055353
+"medium height, arms wide apart",165,0.055353
+"arms fully extended, shrugging shoulders",164,0.055017
+"tilting head left and right, barely moving head",164,0.055017
+hopping,163,0.054682
+not bending left knee,163,0.054682
+"tilting head left and right, too fast",163,0.054682
+"feet flat, not moving hips",162,0.054346
+no hands,162,0.054346
+knees touching ground,161,0.054011
+speed=3.50 rps,161,0.054011
+quick drop,158,0.053004
+"higher, keeping shoulders away from the ears",156,0.052333
+"alternate looking left and right, too fast",155,0.051998
+alternate looking far left and far right,154,0.051662
+"alternate looking left and right, barely moving head",153,0.051327
+"on tip-toes, moving hips",153,0.051327
+random movements,153,0.051327
+sitting position,153,0.051327
+insufficient - low,152,0.050991
+"random movements, too fast",152,0.050991
+"medium height, shrugging shoulders",150,0.050321
+moving fast,150,0.050321
+single jump left to right,148,0.049650
+knees inwards,147,0.049314
+"alternate tilting head up and down, barely moving head",146,0.048979
+good rotation,146,0.048979
+whole body moving side to side,146,0.048979
+hands only,145,0.048643
+slow fall,145,0.048643
+alternate tilting head up and down,143,0.047972
+high jump,143,0.047972
+"lower, arms wide apart",143,0.047972
+pull forearm,143,0.047972
+punches not on target,141,0.047301
+barely moving head,139,0.046630
+perfect form,139,0.046630
+"medium height, keeping shoulders away from the ears",138,0.046295
+"lower, keeping shoulders away from the ears",134,0.044953
+only left arm,133,0.044618
+"alternate tilting head up and down, too fast",131,0.043947
+angle=75.0 degrees,131,0.043947
+shallow and low,130,0.043611
+legs_rom=4.0,129,0.043276
+sliding feet,128,0.042940
+speed=1.40 rps,127,0.042605
+single jump (left to right),123,0.041263
+elbow reaching knee,119,0.039921
+in-place,108,0.036231
+moving slow,105,0.035224
+speed=2.25 rps,103,0.034553
+right leg back,99,0.033212
+angle=105.0 degrees,89,0.029857
+speed=2.75 rps,86,0.028850
+not synchronized,73,0.024489
+both elbows down,72,0.024154
+frog,72,0.024154
+back leg not moving,70,0.023483
+single jump (right to left),62,0.020799
+hands on legs,60,0.020128
+"right leg bent, toes facing up",58,0.019457
+"right leg bent, toes facing down",56,0.018786
+legs_rom=2.5,52,0.017444
+pull wrist,52,0.017444
+multiple punches,46,0.015432
+one knee on floor,44,0.014761
+only right arm,44,0.014761
+arms_rom=1.0,43,0.014425
+20 degres,39,0.013083
+thighs not moving,39,0.013083
+arms_rom=1.5,38,0.012748
+insufficient - middle,37,0.012412
+single jump right to left,36,0.012077
+angle=52.5 degrees,35,0.011741
+right leg front,35,0.011741
+"right leg, hold",34,0.011406
+only right leg,32,0.010735
+wrap right around left,32,0.010735
+"right leg front, fold up",31,0.010400
+speed=4.00 rps,31,0.010400
+hold left,30,0.010064
+back from left lean,28,0.009393
+"right leg front, fold down",26,0.008722
+arms_rom=2.5,25,0.008387
+wide space arms,24,0.008051
+lean left,22,0.007380
+arms_rom=3.5,21,0.007045
+angle=97.5 degrees,20,0.006709
+legs bent,19,0.006374
+not bending right knee,18,0.006038
+angle=37.5 degrees,14,0.004697
+hands at shins,12,0.004026
+crunched up,11,0.003690
+inward knees,10,0.003355
+low arm range of motion,10,0.003355
+speed=3.25 rps,10,0.003355
+arms moving too much,6,0.002013
+speed=3.75 rps,5,0.001677
+early stop,3,0.001006
+big air,2,0.000671
+head too low,2,0.000671
+legs_rom=1.5,2,0.000671
+legs_rom=3.5,2,0.000671
+hand off head,1,0.000335

@@ -1,0 +1,7 @@
+Emulator checks passed: offline launch, denial, setup, pause/resume, review, save, restart, history, and deletion.
+
+com.formlite.AcceptanceTest:..
+
+Time: 22.871
+
+OK (2 tests)

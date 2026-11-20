@@ -1,0 +1,3 @@
+Home actions and History are reachable at 340×720.
+Backgrounding froze the active session and it returned paused.
+Permanent camera denial displayed a link that opened Android Settings.
